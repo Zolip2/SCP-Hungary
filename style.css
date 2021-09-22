@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    align-content: space-around;
+    display: flex;
+    background-color: grey;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+h1 {
+    width: 160px;
+    color: red;
+}
+
+a {
+    font-size: larger;
+    color: black;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    font-size: larger;
+    background-color: grey;
+    border: black solid 3px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
