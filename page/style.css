@@ -32,6 +32,6 @@ h1:hover {
 
 @media screen and (min-height:653px) and (min-width:280px) {
     div {
-        margin: 5%;
+        margin: 10%;
     }
 }
