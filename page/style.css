@@ -32,7 +32,7 @@ h1:hover {
 
 
 
-@media screen and (max-height:653px) and (max-width:280px) {
+@media screen and (max-height:1140px) and (max-width:252px) {
     div {
         margin: 30%;
     }
