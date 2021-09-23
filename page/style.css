@@ -30,8 +30,16 @@ h1:hover {
     color: white;
 }
 
-@media screen and (min-height:653px) and (min-width:280px) {
+
+
+@media screen and (max-height:653px) and (max-width:280px) {
     div {
-        margin: 10%;
+        margin: 30%;
+    }
+}
+
+@media screen and (min-height:1295px) and (min-width:2443px) {
+    div {
+        margin: 0.1%;
     }
 }
