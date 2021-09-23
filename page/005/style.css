@@ -1,0 +1,80 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+}
+
+h2 {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#scpimg {
+    height: 30%;
+    width: 30%;
+}
+
+.euclid {
+    height: 5%;
+    width: 5%;
+}
+
+.alive {
+    height: 5%;
+    width: 5%;
+}
+
+.featured {
+    height: 5%;
+    width: 5%;
+}
+
+.scp {
+    height: 5%;
+    width: 5%;
+}
+
+.structure {
+    height: 5%;
+    width: 5%;
+}
+
+.transfiguration {
+    height: 5%;
+    width: 5%;
+}
+
+.safe {
+    height: 5%;
+    width: 5%
+}
+
+.adaptive {
+    height: 5%;
+    width: 5%
+}
+
+.metallic {
+    height: 5%;
+    width: 5%
+}
+
+.sentient {
+    height: 5%;
+    width: 5%
+}
+
+.key {
+    height: 5%;
+    width: 5%
+}

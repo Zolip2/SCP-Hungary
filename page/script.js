@@ -9,3 +9,7 @@ $('#motherboard').click(function() {
 $('#keys').click(function() {
     window.location.href = "004/index.html";
 })
+
+$('#skeletonk').click(function() {
+    window.location.href = "005/index.html";
+})
